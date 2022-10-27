@@ -5,6 +5,10 @@
 
 - 📫 How to reach me **gabebierman@gmail.com**
 
+ - Notable Projects (beginner)
+
+    <a href="https://github.com/gabebierman/_freeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures/JS%20projects"> freeCodeCamp JavaScript Algorithms and Data Structures</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabebierman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabebierman" height="30" width="40" /></a>
