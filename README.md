@@ -1,16 +1,20 @@
 <h1 align="center">Hi 👋, I'm Gabe Bierman</h1>
 <h3 align="center">Junior Web Developer exploring world of programming</h3>
 
-- 🌱 I’m currently learning **Full stack web development**
+- I’m currently learning **Full Stack web development** via **Midland University** and **Python** via **freeCodeCamp.org**
 
-- 📫 How to reach me **gabebierman@gmail.com**
+- How to reach me: **gabebierman@gmail.com** and LinkedIn (link below)
 
  - Notable Projects (beginner)
 
     <a href="https://github.com/gabebierman/_freeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures/JS%20projects"> freeCodeCamp JavaScript Algorithms and Data Structures</a>
     
     <a href="https://github.com/gabebierman/gif-app">Full Stack application using the Giphy API</a> 
-    <p>Includes multiple branches for working with React Query , Redux / RTK Query , MySQL , PostgresQL , and MongoDB</p>
+    <p>Includes multiple branches for working with React Query , Redux / RTK Query , Express , MySQL , PostgresQL , and MongoDB</p>
+    <p>Currenlty deploying to AWS via AWS Lambda</p>
+    
+    <a href="https://github.com/gabebierman/gif-app">Full Stack application using multiple API's offered by NASA/a> 
+    <p>Includes multiple API calls and FireBase / FireAuth inegration. Currently implementing MySQL connections via Express</p>
 
     
 <h3 align="left">Connect with me:</h3>
