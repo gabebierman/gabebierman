@@ -5,16 +5,16 @@
 
 - How to reach me: **gabebierman@gmail.com** and LinkedIn (link below)
 
- - Notable Projects (beginner)
+ - Current and Completed Projects:
 
-    <a href="https://github.com/gabebierman/_freeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures/JS%20projects"> freeCodeCamp JavaScript Algorithms and Data Structures</a>
+    - <a href="https://github.com/gabebierman/_freeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures/JS%20projects"> freeCodeCamp JavaScript Algorithms and Data Structures</a> 
     
-    <a href="https://github.com/gabebierman/gif-app">Full Stack application using the Giphy API</a> 
-    <p>Includes multiple branches for working with React Query , Redux / RTK Query , Express , MySQL , PostgresQL , and MongoDB</p>
-    <p>Currenlty deploying to AWS via AWS Lambda</p>
-    
-    <a href="https://github.com/gabebierman/gif-app">Full Stack application using multiple API's offered by NASA/a> 
-    <p>Includes multiple API calls and FireBase / FireAuth inegration. Currently implementing MySQL connections via Express</p>
+    - <a href="https://github.com/gabebierman/gif-app">Full Stack application using the Giphy API </a> 
+           <p>Includes multiple branches for working with React Query , Redux / RTK Query , Express , MySQL , PostgresQL , and MongoDB</p>
+        
+    - <a href="https://github.com/gabebierman/gif-app">Full Stack application using multiple API's offered by NASA</a> 
+           <p>Includes multiple API calls and FireBase / FireAuth inegration. Currently implementing MySQL connections via Express</p>
+           <p>Deployed to Fly.io <a href="https://nasa-app.fly.dev/">here!</a></p>
 
     
 <h3 align="left">Connect with me:</h3>
