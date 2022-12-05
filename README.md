@@ -6,15 +6,19 @@
 - How to reach me: **gabebierman@gmail.com** and LinkedIn (link below)
 
  - Current and Completed Projects:
-
-    - <a href="https://github.com/gabebierman/_freeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures/JS%20projects"> freeCodeCamp JavaScript Algorithms and Data Structures</a> 
     
-    - <a href="https://github.com/gabebierman/gif-app">Full Stack application using the Giphy API </a> 
-           <p>Includes multiple branches for working with React Query , Redux / RTK Query , Express , MySQL , PostgresQL , and MongoDB</p>
-        
-    - <a href="https://github.com/gabebierman/gif-app">Full Stack application using multiple API's offered by NASA</a> 
-           <p>Includes multiple API calls and FireBase / FireAuth inegration. Currently implementing MySQL connections via Express</p>
-           <p>Deployed to Fly.io <a href="https://nasa-app.fly.dev/">here!</a></p>
+    - <a href="https://github.com/gabebierman/gif-app" target="_blank">synth-app</a> 
+           <p>A web based synthesizer and minmalist drum machine build around the web-audio-api. Change parameters, sequence beats, and set and recall presets</p>
+           <p>Web application and accompanying database are hosted <a href="https://synth-app.fly.dev/" target="_blank">here</a></p>
+           
+     - <a href="https://github.com/gabebierman/gif-app" target="_blank">nasa-app</a> 
+           <p>Full Stack application using multiple API's offered by NASA. Includes multiple API calls and FireBase / FireAuth inegration. Currently implementing MySQL connections via Express</p>
+           <p>Deployed to Fly.io <a href="https://nasa-app.fly.dev/" target="_blank">here!</a></p>
+    
+    - <a href="https://github.com/gabebierman/gif-app" target="_blank">gif-app</a> 
+           <p>Full Stack application using the Giphy API. Includes multiple branches for working with React Query , Redux / RTK Query , Express , MySQL , PostgresQL , and MongoDB</p>
+           
+     - <a href="https://github.com/gabebierman/_freeCodeCamp/tree/master/JavaScript%20Algorithms%20and%20Data%20Structures/JS%20projects" target="_blank"> freeCodeCamp JavaScript Algorithms and Data Structures</a> 
 
     
 <h3 align="left">Connect with me:</h3>
