@@ -10,7 +10,7 @@
    - <a href="https://github.com/gabebierman/Uno-Game-C11" target="_blank">uno-clone</a> 
            <p>The final group project for the Midland Univeristy Code Academy. Our team built an online, multiplayer clone of the card game Uno.</p>
            <p>Web application is hosted <a href="https://uno-clone-gabebierman.fly.dev/lobby" target="_blank">here</a></p>
-           <p>Technologies used include: React, Node.js, Socket.IO, Express, Firebase (Fireatuh and Realtime Database), Emotion, and Material UI</p>
+           <p>Technologies used include: React, Node.js, Socket.IO, Express, Firebase (Fireauth and Realtime Database), Emotion, and Material UI</p>
     
     - <a href="https://github.com/gabebierman/gif-app" target="_blank">synth-app</a> 
            <p>A web based synthesizer and minmalist drum machine build around the web-audio-api. Change parameters, sequence beats, and set and recall presets</p>
